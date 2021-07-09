@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=alessandrogelmi&show_icons=true&theme=dark
+<img src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&show_icons=true&theme=dark" />
