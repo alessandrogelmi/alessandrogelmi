@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&show_icons=true&theme=dark" />
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrogelmi&layout=compact&langs_count=6&theme=dark" />
