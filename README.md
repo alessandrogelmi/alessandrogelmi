@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <hr>
 <h3>🌐 My main project</h3>
 <a href="https://github.com/alessandrogelmi/Covid19-Italy-Data">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=alessandrogelmi&repo=Covid19-Italy-Data&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=alessandrogelmi&repo=Covid19-Italy-Data&theme=dark&hide_border=true" />
 </a>
