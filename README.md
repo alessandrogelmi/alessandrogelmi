@@ -1,6 +1,7 @@
 ## <img src="./images/hi.svg" alt="hi" width="24px"> Hey there!
 
 <div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&theme=dark&count_private=true&show_icons=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=alessandrogelmi&theme=github&bg_color=151515&hide_border=true" />
 </div>
 <hr>
