@@ -1,24 +1,8 @@
 ## <img src="./images/hi.svg" alt="hi" width="24px"> Hey there!
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&show_icons=true&theme=dark" />
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrogelmi&layout=compact&langs_count=6&theme=dark&hide_border=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alessandrogelmi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="alessandrogelmi" /></p>
+<div align="center" >
+  <img src="https://activity-graph.herokuapp.com/graph?username=alessandrogelmi&theme=github&bg_color=151515&hide_border=true" />
+</div>
 <hr>
 <h3>🌐 My main project</h3>
 <a href="https://github.com/alessandrogelmi/Covid19-Italy-Data">
