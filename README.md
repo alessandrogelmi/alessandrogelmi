@@ -1,4 +1,4 @@
-## 👋 Hey there!
+## <img src="./images/hi.svg" alt="hi" width="26px"> Hey there!
 
 <!--
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&show_icons=true&theme=dark" /> 
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&show_icons=true&theme=dark" />
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrogelmi&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alessandrogelmi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="alessandrogelmi" /></p>
