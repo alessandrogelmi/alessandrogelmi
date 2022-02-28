@@ -1,4 +1,4 @@
-# <img src="./images/hi.svg" alt="hi" width="24px"> Hey there!
+## <img src="./images/hi.svg" alt="hi" width="24px"> Hey there!
 
 <p align='center'>
   
