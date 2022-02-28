@@ -11,8 +11,10 @@
   
 </p>
 
+<!---
 ## About me
 <td><img src="./images/Snap.png" width="700px"></td>
+-->
 
 ## About my github
 <img align=top src="https://github-readme-stats.vercel.app/api?username=alessandrogelmi&theme=dark&count_private=true&show_icons=true&hide_border=true" />
