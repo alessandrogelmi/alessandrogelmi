@@ -22,7 +22,9 @@
 ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/overview.svg)
 <!-- ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/languages.svg) -->
 
+<!--
 ## My main project
 <a href="https://github.com/alessandrogelmi/Covid19-Italy-Data">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=alessandrogelmi&repo=Covid19-Italy-Data&theme=dark&hide_border=true" />
 </a>
+-->
