@@ -1,6 +1,6 @@
 
 ```Javascript
-const me: Person = {
+const me: Developer = {
   first_name: "Alessandro",
   last_name: "Gelmi",
   age: 21,
