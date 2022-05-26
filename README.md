@@ -1,4 +1,15 @@
-<img src="./images/snap_me.png" alt="me" width="700px">
+
+```Javascript
+const me: Person = {
+  first_name: "Alessandro",
+  last_name: "Gelmi",
+  age: 21,
+  location: "Bergamo, Italy",
+  email: "ale.gelmi2@gmail.com",
+  occupation: "Frontend Developer",
+  stack: ["Javascript", "Typescript", "React", "NodeJs"]
+ }
+ ```
 
 ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/languages.svg)
