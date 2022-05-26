@@ -1,5 +1,3 @@
-## <img src="./images/hi.svg" alt="hi" width="24px"> Hey there!
-
 <img src="./images/me.png" alt="me">
 
 ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/overview.svg)
