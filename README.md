@@ -1,4 +1,4 @@
-<img src="./images/me.png" alt="me">
+<img src="./images/snap_me.png" alt="me" width="700px">
 
 ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/languages.svg)
