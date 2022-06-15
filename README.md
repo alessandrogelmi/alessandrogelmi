@@ -11,8 +11,8 @@ const me: Developer = {
  }
  ```
 
-![](https://raw.githubusercontent.com/alessandrogelmi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/alessandrogelmi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 <p>
   
