@@ -3,7 +3,7 @@
 const me: Developer = {
   first_name: "Alessandro",
   last_name: "Gelmi",
-  age: 21,
+  age: 22,
   location: "Bergamo, Italy",
   email: "ale.gelmi2@gmail.com",
   occupation: "Frontend Developer",
