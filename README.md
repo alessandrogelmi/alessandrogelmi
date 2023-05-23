@@ -7,7 +7,7 @@ const me: Developer = {
   location: "Bergamo, Italy",
   email: "ale.gelmi2@gmail.com",
   occupation: "Frontend Developer",
-  stack: ["Javascript", "Typescript", "React", "NodeJs"]
+  stack: ["Typescript", "React", "React Native"]
  }
  ```
 
@@ -22,9 +22,6 @@ const me: Developer = {
   
   <a href="https://www.linkedin.com/in/alessandro-gelmi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ale.gelmi2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
