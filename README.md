@@ -1,14 +1,6 @@
 
 ```Javascript
-const me: Developer = {
-  first_name: "Alessandro",
-  last_name: "Gelmi",
-  age: 22,
-  location: "Bergamo, Italy",
-  email: "ale.gelmi2@gmail.com",
-  occupation: "Frontend Developer",
-  stack: ["Typescript", "React", "React Native"]
- }
+type Stack = Typescript & React & React Native
  ```
 
 <div>
