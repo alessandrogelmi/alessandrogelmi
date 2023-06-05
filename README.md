@@ -1,6 +1,6 @@
 
 ```Javascript
-type Stack = Typescript & React & React Native
+type Stack = Typescript & React & ReactNative
  ```
 
 <div>
